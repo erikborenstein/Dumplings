@@ -31,4 +31,3 @@ wish!!!
 
 /play horror
 
-![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
