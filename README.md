@@ -29,5 +29,6 @@ wish!!!
 
 :runner::dash: #fartedandwalkedaway
 
-/play horror
+:+1:
+![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
 
