@@ -26,3 +26,5 @@ wish!!!
 :boom:
 
 :feelsgood:
+
+/play horror
